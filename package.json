@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-js-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmol-cs/vanilla-js-app.git"
+  },
+  "author": "anmol singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmol-cs/vanilla-js-app/issues"
+  },
+  "homepage": "https://github.com/anmol-cs/vanilla-js-app#readme"
+}
